@@ -1,6 +1,6 @@
 # coffee-roaster
 
-Watches a directory or file for .coffee files with *#@compileTo *outputFile* directives, and compiles those files when they change. 
+Watches a directory or file for .coffee files with "#@compileTo outputFile" directives, and compiles those files when they change. 
 
 This tool is meant for small projects that don't want to deal with Cakefiles and/or muffin.
 
