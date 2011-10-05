@@ -1,0 +1,20 @@
+{
+  "author": "Kamil Tusznio <kamil.tusznio@gmail.com>",
+  "name": "coffee-roaster",
+  "bin": {
+    "coffee-roaster": "./bin/coffee-roaster"
+  },
+  "description": "Watches your .coffee files for changes and compiles to the JavaScript file specified in \"#@compilesTo <file>\".",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "coffee-script": ""
+  },
+  "devDependencies": {}
+}
